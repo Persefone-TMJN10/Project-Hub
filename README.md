@@ -19,11 +19,11 @@
     </a>
     <br />
     <br />
-    <a href="https://docs.google.com/document/d/1MvyMiMswEZONcX7VEhS3iGQ1EV0mUhDZG-rRwyo7Jd0/edit">Meeting Log</a>
+    <a href="https://docs.google.com/document/d/1MvyMiMswEZONcX7VEhS3iGQ1EV0mUhDZG-rRwyo7Jd0/edit?usp=sharing">Meeting Log</a>
     ·
-    <a href="https://docs.google.com/document/d/1MvyMiMswEZONcX7VEhS3iGQ1EV0mUhDZG-rRwyo7Jd0/edit">Another Log</a>
+    <a href="https://docs.google.com/document/d/1MvyMiMswEZONcX7VEhS3iGQ1EV0mUhDZG-rRwyo7Jd0/edit?usp=sharing">Another Log</a>
     ·
-    <a href="https://docs.google.com/document/d/1MvyMiMswEZONcX7VEhS3iGQ1EV0mUhDZG-rRwyo7Jd0/edit">A Third Log</a>
+    <a href="https://docs.google.com/document/d/1MvyMiMswEZONcX7VEhS3iGQ1EV0mUhDZG-rRwyo7Jd0/edit?usp=sharing">A Third Log</a>
   </p>
 </p>
 
